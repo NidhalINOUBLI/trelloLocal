@@ -1,0 +1,2 @@
+# trelloLocal
+localProject
